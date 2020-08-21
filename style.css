@@ -21,7 +21,7 @@ img{
 
 button {
   border: round;
-  background-color: cornflowerblue;
+  background-color: red;
   padding: 14px 28px;
   font-size: 16px;
   cursor: pointer;
@@ -29,7 +29,7 @@ button {
 }
 p.dashed {border-style: dashed;
  border-style: solid;
-  border-width: 5px
+  border-width: 10px
 }
 
 
